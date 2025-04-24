@@ -37,5 +37,4 @@
 برای شروع، پروژه را از GitHub کلون کنید:
 
 ```bash
-git clone https://github.com/username/safety-inspection-system.git
-cd safety-inspection-system
+git clone https://github.com/Tabriz-Petrochemical/SafetyInspection.git
